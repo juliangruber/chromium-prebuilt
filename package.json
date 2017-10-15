@@ -1,6 +1,6 @@
 {
   "name": "chromium-prebuilt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "julianguber/chromium-prebuilt",
   "description": "Use prebuilt Chromium binaries",
