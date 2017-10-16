@@ -8,6 +8,6 @@
     "install": "download-chromium > ./path.txt"
   },
   "dependencies": {
-    "download-chromium": "^1.2.1"
+    "download-chromium": "^2.0.0"
   }
 }
