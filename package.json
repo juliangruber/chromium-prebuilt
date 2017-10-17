@@ -2,7 +2,7 @@
   "name": "chromium-prebuilt",
   "version": "2.0.0",
   "license": "MIT",
-  "repository": "julianguber/chromium-prebuilt",
+  "repository": "juliangruber/chromium-prebuilt",
   "description": "Use prebuilt Chromium binaries",
   "scripts": {
     "install": "download-chromium > ./path.txt"
